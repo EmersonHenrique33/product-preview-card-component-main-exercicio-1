@@ -86,11 +86,9 @@ a {
   align-items: center;
   justify-content: center;
   gap: 10px;
-  box-sizing: border-box;
 }
 
 .botao a{
-  display: block;
   color: hsl(0, 0%, 100%);
   font-weight: 700;
 }
