@@ -80,21 +80,18 @@ a {
 
 .botao{
   background-color: hsl(158, 36%, 37%);
-  padding: 5px 0;
-  border-radius: 10px;
   display: flex;
   align-items: center;
   justify-content: center;
+  border-radius: 6px;
   gap: 10px;
-}
-
-.botao a{
   color: hsl(0, 0%, 100%);
   font-weight: 700;
+  padding: 10px 0;
 }
 
 .botao:hover{
-  background-color: rgb(26, 64, 49);
+  background: rgb(26, 64, 49);
 }
 
 @media (max-width: 800px){
